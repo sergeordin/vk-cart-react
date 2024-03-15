@@ -1,0 +1,6 @@
+.Preview {
+  object-fit: contain;
+}
+.Counter {
+  display: flex;
+}
